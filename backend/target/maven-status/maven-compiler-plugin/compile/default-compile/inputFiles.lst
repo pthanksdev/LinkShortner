@@ -1,0 +1,6 @@
+/home/tessy/Desktop/All mine/Spring project/LinkShortener/backend/src/main/java/com/linkshortener/backend/model/UrlMapping.java
+/home/tessy/Desktop/All mine/Spring project/LinkShortener/backend/src/main/java/com/linkshortener/backend/repository/UrlRepository.java
+/home/tessy/Desktop/All mine/Spring project/LinkShortener/backend/src/main/java/com/linkshortener/backend/service/UrlShortenerService.java
+/home/tessy/Desktop/All mine/Spring project/LinkShortener/backend/src/main/java/com/linkshortener/backend/controller/UrlController.java
+/home/tessy/Desktop/All mine/Spring project/LinkShortener/backend/src/main/java/com/linkshortener/backend/BackendApplication.java
+/home/tessy/Desktop/All mine/Spring project/LinkShortener/backend/src/main/java/com/linkshortener/backend/controller/RedirectController.java
